@@ -5,8 +5,8 @@
 
 p = float(input("Digite o preco do produto: "))
 desconto = 0.10
+p_final = 0
 
 if p > 100.00:
     p_final = p * (1 - desconto)
-
 print(p_final)
