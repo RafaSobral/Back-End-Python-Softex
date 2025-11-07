@@ -10,4 +10,4 @@ palavra = input("Digite uma palavra: ")
 if palavra in frase:
     print("A palavra esta na frase")
 else:
-    print("Ta nao men")
+    print("Ta nao menn")
